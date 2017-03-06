@@ -11,5 +11,7 @@
 
 .jumbotron {
   background: #e07bc6;
+  background-image: url("http://www.successacademies.org/site/themes/success-academy/assets/img/icon_twitter.png");
+  background-size: cover;
   color: white;
 }
